@@ -24,7 +24,7 @@ export const FEATURES = [
     icon: "/calendar.svg",
     variant: "green",
     description:
-      "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion.",
+      "Schedule an adventure with friends. On holidays, there are many interesting offers from GiaxTravel. That way, there's no more discussion.",
   },
   {
     title: "Technology using augment reality!",
@@ -47,7 +47,7 @@ export const FOOTER_LINKS = [
   {
     title: "Learn More",
     links: [
-      "About Hilink",
+      "About GiaxTravel",
       "Press Releases",
       "Environment",
       "Jobs",
@@ -65,7 +65,7 @@ export const FOOTER_CONTACT_INFO = {
   title: "Contact Us",
   links: [
     { label: "Admin Officer", value: "123-456-7890" },
-    { label: "Email Officer", value: "giaxup@hilink.com" },
+    { label: "Email Officer", value: "giaxup@travel.com" },
   ],
 };
 
