@@ -1,5 +1,5 @@
 # Travel App
-###  (Next.js, React, Tailwind
+###  (Next.js, React, Tailwind)
 Decided to make this project to train Tailwind CSS. There's nothing special like a backend server or databases in this project, but I wanted to focus on my Frontend skills just to learn something new.
 
 ## Screenshots
